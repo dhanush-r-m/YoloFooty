@@ -96,7 +96,7 @@ class Tracker:
 
                 if cls_id == cls_names_inv['ball']:
                     tracks["ball"][frame_num][1] = {"bbox":bbox}
-
+                
         if stub_path is not None:
             with open(stub_path,'wb') as f:
                 pickle.dump(tracks,f)
