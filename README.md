@@ -1,3 +1,4 @@
+YoloFooty
 ⚽️ YoloFooty - Real-Time Football Analysis with YOLO
 YoloFooty is a real-time football (soccer) analysis tool built with Python, OpenCV, and YOLO object detection. It automatically detects and tracks players and the ball from match footage, providing visual overlays, stats, and insights to enhance game analysis and coaching.
 
