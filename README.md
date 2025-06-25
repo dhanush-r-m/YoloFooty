@@ -57,7 +57,7 @@ Trained Model - (https://drive.google.com/file/d/1DC2kCygbBWUKheQ_9cFziCsYVSRw6a
 
 ## Screenshots
 
-![App Screenshot](file:///C:/Users/ASUS/Downloads/screenshot.png)
+![App Screenshot]
 
 
 ## Authors
