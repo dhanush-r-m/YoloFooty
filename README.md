@@ -57,7 +57,7 @@ Trained Model - (https://drive.google.com/file/d/1DC2kCygbBWUKheQ_9cFziCsYVSRw6a
 
 ## Screenshots
 
-![App Screenshot]
+![App Screenshot](https://ibb.co/v478FtqD)
 
 
 ## Authors
