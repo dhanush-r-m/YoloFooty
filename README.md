@@ -14,6 +14,8 @@ YOLOv8 (YOLOv8)
 
 PyTorch
 
+YOLO TECH
+
 
 ## Appendix
 
