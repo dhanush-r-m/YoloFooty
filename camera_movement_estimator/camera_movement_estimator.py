@@ -5,6 +5,7 @@ import os
 import sys 
 sys.path.append('../')
 from utils import measure_distance,measure_xy_distance
+import pandas as pd 
 
 class CameraMovementEstimator():
     def __init__(self,frame):
