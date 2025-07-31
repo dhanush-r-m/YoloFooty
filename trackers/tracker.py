@@ -9,6 +9,7 @@ import sys
 sys.path.append('../')
 from utils import get_center_of_bbox, get_bbox_width, get_foot_position
 import matplotlib.pyplot as plt
+import seaborn as sns
 
 class Tracker:
     def __init__(self, model_path):
